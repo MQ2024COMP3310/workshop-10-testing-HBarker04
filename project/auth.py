@@ -68,5 +68,3 @@ def logout():
 # Testing git push
 
 #hbefhbdbfdebfehf
-
-# Testing Dev Branch task 3
