@@ -66,5 +66,9 @@ def logout():
 
 # See https://www.digitalocean.com/community/tutorials/how-to-add-authentication-to-your-app-with-flask-login for more information
 # Testing git push
+<<<<<<< HEAD
 
 #hbefhbdbfdebfehf
+=======
+# Ted smells
+>>>>>>> 0b661ba6b47b67b996884dc5b8ea13ad880fa0a5
